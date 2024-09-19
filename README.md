@@ -7,12 +7,14 @@ Metatags **adds an additional dimension to tagging** while also tightening up th
 
 It is well-suited for adding quite complex metadata in a fast, free-flow sort of way.
 
-Value proposition
+### Value proposition
 - saving seconds adding tag information
-- adding additional tag structure information in a natural way
-- adding tags anywhere text goes (e.g. file titles or in-text)
+- adding additional information using "tag structure" in a naturally flowing way
+- tightening multiple tags up format-wise, single-string format
+- adding tags anywhere text goes (e.g. in file titles or in-text)
 
-It includes ordinary tagging functionality:
+### basically just tags and tagged tags
+Metatags includes ordinary tagging functionality:
 
     . (dot) is the normal tag operator
 
@@ -20,7 +22,7 @@ and also allows for tagging tags:
 
     .. (dot dot) is the metatag operator
 
-Only one tag can be tagged per dimension, seems to work nicely in practice.
+(Only one tag can be tagged per dimension. Seems to work nicely in practice.)
 
 ## example please
 
