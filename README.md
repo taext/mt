@@ -11,7 +11,7 @@ It is well-suited for adding quite complex metadata in a fast, free-flow sort of
 - saving seconds adding tag information
 - adding additional information using "tag structure" in a naturally flowing way
 - tightening multiple tags up format-wise, single-string format
-- adding tags anywhere text goes (e.g. in file titles or in-text)
+- adding tags anywhere text goes (e.g. in filenames or in-text)
 
 ### basically just tags and tagged tags
 Metatags includes ordinary tagging functionality:
