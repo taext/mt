@@ -81,8 +81,7 @@ signifying in hash-tag notation
     #youtube_video
     #youtube_video/math
     #youtube_video/calculus_1
-    #youtube_video/lecture_series
-    #youtube_video/url https://youtu.be/rR8imSHCuFk
+    #youtube_video/lecture_series/url https://youtu.be/rR8imSHCuFk
 
 
 
