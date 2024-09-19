@@ -3,19 +3,24 @@
 
 ## what is it?
 
-MetaTags **adds an additional dimension to tagging** while also tightening up the tag format.
+Metatags **adds an additional dimension to tagging** while also tightening up the tag format.
 
 It is well-suited for adding quite complex metadata in a fast, free-flow sort of way.
 
-It includes ordinary tagging functionality
+Value proposition
+- saving seconds adding tag information
+- adding additional tag structure information in a natural way
+- adding tags anywhere text goes (e.g. file titles or in-text)
+
+It includes ordinary tagging functionality:
 
     . (dot) is the normal tag operator
 
-and also allows for tagging tags
+and also allows for tagging tags:
 
-    .. (dot dot) is the meta-tag operator
+    .. (dot dot) is the metatag operator
 
-(only one tag can be tagged per dimension, seems to work nicely in practice though)
+Only one tag can be tagged per dimension, seems to work nicely in practice.
 
 ## example please
 
@@ -31,11 +36,11 @@ to signify the hash tags
     #podcast
     #spaghetti_related
 
-(Note the `..` signifying the start of a meta-tag)
+(Note the `..` signifying the start of a metatag)
 
 ### full syntax
 
-A meta-tag utilizing the dimensional aspect (tags tagging tags) looks like so
+A metatag utilizing the dimensional aspect (tags tagging tags) looks like so
 
 **..text..freewriting.danish.short_form.funny..not_haha.dark.british**
 
