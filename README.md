@@ -3,13 +3,13 @@
 
 ## what is it?
 
-The meta-tag **adds an additional dimension to tagging** while also tightening up the format.
+MetaTags **adds an additional dimension to tagging** while also tightening up the tag format.
 
 It includes ordinary tagging functionality
 
     . (dot) is the normal tag operator
 
-and also allows for tagging other tags
+and also allows for tagging tags
 
     .. (dot dot) is the meta-tag operator
 
@@ -59,11 +59,17 @@ corresponds with these hash tags
 
 ## complex tags using `[]`
 
-To describe a complex self-contained string and/or escape `.` (dot) interpretation use sharp parentheses. Examples include `[url.com]`,`[v0.1.1]`,`[hmm...]`. Used below to include a full URL:
+To describe a complex self-contained string and/or escape `.` (dot) interpretation use sharp parentheses. Examples include `[url.com]`,`[v0.1.2]`,`[hmm...]`. Used below to include a full URL:
 
 **..youtube_video..math.calculus_1.lecture_series.url..[https://youtu.be/rR8imSHCuFk]**
 
+meaning
 
+    #youtube_video
+    #youtube_video/math
+    #youtube_video/calculus_1
+    #youtube_video/lecture_series
+    #youtube_video/url https://youtu.be/rR8imSHCuFk
 
 
 
