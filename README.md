@@ -19,9 +19,9 @@ and also allows for tagging other tags
 ### basic syntax
 A normal collection of tags looks like so
 
-> ..food.podcast.spaghetti_related
+**..food.podcast.spaghetti_related**
 
-to signify the tags
+to signify the hash tags
 
     #food
     #podcast
