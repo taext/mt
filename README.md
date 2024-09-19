@@ -1,5 +1,8 @@
 
-# MetaTag [..tag] Conceptual Whitepaper
+# MetaTag [..tag] 
+#### Conceptual Whitepaper 
+
+September 19th 2024 Copenhagen
 
 ## what is it?
 
