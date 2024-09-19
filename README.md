@@ -1,5 +1,5 @@
 
-# Meta-Tag [..tag]
+# MetaTag [..tag]
 
 ## what is it?
 
