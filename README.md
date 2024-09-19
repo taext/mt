@@ -5,6 +5,8 @@
 
 MetaTags **adds an additional dimension to tagging** while also tightening up the tag format.
 
+It is well-suited for adding quite complex metadata in a fast, free-flow sort of way.
+
 It includes ordinary tagging functionality
 
     . (dot) is the normal tag operator
@@ -12,6 +14,8 @@ It includes ordinary tagging functionality
 and also allows for tagging tags
 
     .. (dot dot) is the meta-tag operator
+
+(only one tag can be tagged per dimension, seems to work nicely in practice though)
 
 ## example please
 
