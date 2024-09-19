@@ -47,7 +47,7 @@ which corresponds to these hash tags when expanded
 
 ### another example
 
-> ..mp3..metal.90s.mood..fist_date.last_date.school..is_out.shooting
+> ..mp3..metal.90s.mood..fist_date.last_date
 
 corresponds with these hash tags
 
