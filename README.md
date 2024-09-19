@@ -31,9 +31,9 @@ to signify the tags
 
 ### full syntax
 
-A meta-tag also utilizing the dimensional aspect (tagging tags) looks like so
+A meta-tag utilizing the dimensional aspect (tags tagging tags) looks like so
 
-> ..text..freewriting.danish.short_form.funny..not_haha.dark.british
+**..text..freewriting.danish.short_form.funny..not_haha.dark.british**
 
 which corresponds to these hash tags when expanded
 
@@ -47,7 +47,7 @@ which corresponds to these hash tags when expanded
 
 ### another example
 
-> ..mp3..metal.90s.mood..fist_date.last_date
+**..mp3..metal.90s.mood..fist_date.last_date**
 
 corresponds with these hash tags
 
