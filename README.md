@@ -56,6 +56,8 @@ which corresponds to these hash tags when expanded
     #text/funny/dark
     #text/funny/british
 
+(metatag version is 8 words, hash-tag version is  16 words)
+
 ### another example
 
 **..mp3..metal.90s.mood..fist_date.last_date**
