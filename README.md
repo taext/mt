@@ -63,7 +63,7 @@ To describe a complex self-contained string and/or escape `.` (dot) interpretati
 
 **..youtube_video..math.calculus_1.lecture_series.url..[https://youtu.be/rR8imSHCuFk]**
 
-meaning
+signifying in hash-tag notation
 
     #youtube_video
     #youtube_video/math
