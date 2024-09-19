@@ -61,7 +61,7 @@ corresponds with these hash tags
 
 To describe a complex self-contained string and/or escape `.` (dot) interpretation, use sharp parantheses `[url.com]` like so
 
-..youtube_video..math.calculus_1.lecture_series.url..[https://youtu.be/rR8imSHCuFk]
+**..youtube_video..math.calculus_1.lecture_series.url..[https://youtu.be/rR8imSHCuFk]**
 
 
 
